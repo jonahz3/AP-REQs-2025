@@ -17,4 +17,4 @@ get better at reading lol
 | Name | Use |
 | ----------- | ----------- |
 | [StackOverflow](https://stackoverflow.com/questions) | Questions n Solutions |
-| Paragraph | Text |
+| [GeeksforGeek](https://www.geeksforgeeks.org/) | very good for almost everything imo, examples and practices |
