@@ -18,3 +18,4 @@ get better at reading lol
 | ----------- | ----------- |
 | [StackOverflow](https://stackoverflow.com/questions) | Questions n Solutions |
 | [GeeksforGeek](https://www.geeksforgeeks.org/) | very good for almost everything imo, examples and practices |
+ ~~ https://chatgpt.com/?utm_source=google&utm_medium=paidsearch_brand&utm_campaign=DEPT_SEM_Google_Brand_Acquisition_NAMER_US_Consumer_CPA_BAU_Mix&utm_term=chatgpt&gad_source=1&gad_campaignid=21714513245&gbraid=0AAAAA-IW-UUfjnP_v6RqprAELtoTIRgEx&gclid=EAIaIQobChMI1tC6wrG3jQMV6mtHAR34XxhiEAAYASAAEgI1g_D_BwE ~~
