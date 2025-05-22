@@ -14,7 +14,7 @@ This repository contains the solution for the 2025th ApCSA Ap exam's FRQs.
 get better at reading lol
 
 # Resources
-| Syntax | Description |
+| Name | Use |
 | ----------- | ----------- |
-| Header | Title |
+| [StackOverflow](https://stackoverflow.com/questions) | Questions n Solutions |
 | Paragraph | Text |
