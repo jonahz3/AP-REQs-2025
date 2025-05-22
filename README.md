@@ -19,3 +19,8 @@ get better at reading lol
 | [StackOverflow](https://stackoverflow.com/questions) | Questions n Solutions |
 | [GeeksforGeek](https://www.geeksforgeeks.org/) | very good for almost everything imo, examples and practices |
 | ~~ChatGPT~~ | ~~Exams and test~~ |
+
+# Goals
+- [x] Depression 
+- [x] Fail life
+- [ ] touch grass
