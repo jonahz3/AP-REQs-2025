@@ -18,4 +18,4 @@ get better at reading lol
 | ----------- | ----------- |
 | [StackOverflow](https://stackoverflow.com/questions) | Questions n Solutions |
 | [GeeksforGeek](https://www.geeksforgeeks.org/) | very good for almost everything imo, examples and practices |
- ~ChatGPT~~
+| ~~ChatGPT~~ | ~~Exams and test~~ |
