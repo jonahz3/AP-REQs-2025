@@ -1,5 +1,16 @@
-# Question 1 Analysis
+## Question 1 Analysis
+### Dog Walker
 
-## Dog Walker
+This section contains my analysis of Question 1 (Methods and Control Structures):
 
-The program is meant to allow a DogWalker to have up to the max amount of dog
+#### My initial approach during the exam:
+- Ideas here
+  
+#### My revised solution after review:
+- Ideas here
+  
+#### Key concepts tested in this question:
+- Ideas here
+  
+#### What I learned from revisiting this problem:
+- Ideas here
